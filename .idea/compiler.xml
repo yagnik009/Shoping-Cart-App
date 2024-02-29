@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Return" />
+        <module name="OederService" />
+        <module name="inventoryservice" />
+        <module name="Service" />
+        <module name="API" />
+        <module name="identity-service" />
+        <module name="catlogService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CatlogService" target="17" />
+      <module name="CatlogService (1)" target="17" />
+      <module name="catlogService (1) (com.catlog)" target="17" />
+      <module name="CatlogService (2)" target="17" />
+      <module name="CatlogService (2) (com.CatelogService)" target="17" />
+      <module name="IdenetityService" target="17" />
+      <module name="INVENTORY-SERVICE" target="17" />
+      <module name="inventoryService" target="17" />
+      <module name="InventoryService" target="17" />
+      <module name="ORDER_SERVICE" target="17" />
+      <module name="OrderService" target="17" />
+      <module name="QuestionService" target="17" />
+      <module name="Service (1)" target="17" />
+      <module name="Service (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="API" options="-parameters" />
+      <module name="CatlogService" options="-parameters" />
+      <module name="CatlogService (1)" options="-parameters" />
+      <module name="CatlogService (2)" options="-parameters" />
+      <module name="CatlogService (2) (com.CatelogService)" options="-parameters" />
+      <module name="INVENTORY-SERVICE" options="-parameters" />
+      <module name="IdenetityService" options="-parameters" />
+      <module name="InventoryService" options="-parameters" />
+      <module name="ORDER_SERVICE" options="-parameters" />
+      <module name="OederService" options="-parameters" />
+      <module name="OrderService" options="-parameters" />
+      <module name="QuestionService" options="-parameters" />
+      <module name="Return" options="-parameters" />
+      <module name="Service" options="-parameters" />
+      <module name="Service (1)" options="-parameters" />
+      <module name="Service (2)" options="-parameters" />
+      <module name="catlogService" options="-parameters" />
+      <module name="catlogService (1) (com.catlog)" options="-parameters" />
+      <module name="identity-service" options="-parameters" />
+      <module name="inventoryService" options="-parameters" />
+      <module name="inventoryservice" options="-parameters" />
+    </option>
+  </component>
+</project>

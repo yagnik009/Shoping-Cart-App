@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.GetMapping" />
+    </list>
+    <writeAnnotations>
+      <writeAnnotation name="org.springframework.beans.factory.annotation.Autowired" />
+    </writeAnnotations>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/CatlogService/CatlogService/pom.xml" />
+        <option value="$PROJECT_DIR$/inventoryService/pom.xml" />
+        <option value="$USER_HOME$/Downloads/Service/Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Service/Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../InventoryService (1)/InventoryService/pom.xml" />
+        <option value="$PROJECT_DIR$/../InventoryService -Service/InventoryService/pom.xml" />
+        <option value="$PROJECT_DIR$/../Inventory-Service-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../INVENTORY-SERVICE/pom.xml" />
+        <option value="$PROJECT_DIR$/INVENTORY-SERVICE/pom.xml" />
+        <option value="$PROJECT_DIR$/ORDER_SERVICE/ORDER_SERVICE/pom.xml" />
+        <option value="$PROJECT_DIR$/API/pom.xml" />
+        <option value="$PROJECT_DIR$/Return/pom.xml" />
+        <option value="$PROJECT_DIR$/IdenetityService/pom.xml" />
+        <option value="$PROJECT_DIR$/identity-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Downloads/Service/Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../InventoryService -Service/InventoryService/pom.xml" />
+        <option value="$PROJECT_DIR$/INVENTORY-SERVICE/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="openjdk-20 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
